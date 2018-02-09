@@ -23,7 +23,8 @@ iframe{
 }
 
 .yellow-section p{
-    color: white;
+
+    color: red;
 }
 .yellow-section blockquote{
     color: #151719;
