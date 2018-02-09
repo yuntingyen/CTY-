@@ -1,0 +1,10 @@
+.modal-title{
+	font-size: 25px;
+}
+.modal-content {
+	background:#f6f6f6;
+
+}
+.modal-content span{
+	border-bottom: solid 2px #FFB600;
+}

@@ -1,0 +1,22 @@
+blockquote span{
+	border-bottom: solid 2px #FFB600;
+}
+
+.teacher-wait{
+	color:#aaa;
+	font-size: 25px;
+	text-align: center;
+	border:solid 2px;
+}
+.member_img{
+	padding: 10px;
+	background-color: white;
+	overflow:auto;
+}
+
+.grid .member_img figure{
+	width:98%;
+}
+.modal-content span{
+	border-bottom: solid 2px #FFB600;
+}

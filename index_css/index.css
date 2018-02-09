@@ -1,0 +1,78 @@
+iframe{
+    background-color: white;
+}
+.about{
+    font-size:20px;
+}
+.intro h2{
+    font-size:80px;
+    color:#FFB600;
+    font-family:fantasy;
+}
+
+.yellow-section {
+    width: 100%;
+    padding: 50px 20px;
+    color:#fff;
+    background-color: #FFB600;
+    opacity: 0.7;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.yellow-section p{
+    color: white;
+}
+.yellow-section blockquote{
+    color: #151719;
+    font-size: 20px;
+}
+.yellow-section blockquote {
+    border-left-color: #151719;
+}
+.yellow-section .intro-head {
+    color: #151719;
+}
+.yellow-section .thumbnail p{
+    color: #151719;
+}
+
+.white-section {
+    width: 100%;
+    padding: 50px 0;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.white-section h4{
+    
+    background-color:#f6f6f6;
+   
+}
+.white-section p{
+    
+    font-size:20px;
+   
+}
+.white-section .thumbnail p{
+    
+    font-size: 20px;
+   
+}
+.sponsor-section{
+    background-color: white;
+    width: 100%;
+    padding: 50px 20px;
+    opacity: 0.7;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+.sponsor-section .thumbnail{
+    border: 0;
+}
+

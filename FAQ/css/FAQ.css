@@ -1,0 +1,18 @@
+.intro-head span{
+	color:#FFB600;
+}
+blockquote div{
+	font-size:30px;
+	color:#C93D12;
+}
+blockquote span{
+	border-bottom: solid 2px #FFB600;
+}
+.link--yaku p{
+	font-size:160px;
+	color: #C93D12;
+}
+.link--yaku p:hover{
+	font-size:160px;
+	color:#FFB600;
+}
